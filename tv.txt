@@ -1,4 +1,5 @@
 ﻿100% News (576p),http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+Massin,https://silent-pine-fb33.winges.workers.dev/?url=https://www.youtube.com/@ZadTVchannel/live
 101TV Malaga (1080p),https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
 24 Канал (1080p),http://streamvideol1.luxnet.ua/news24/news24.stream/playlist.m3u8
 24/7 Canal de Noticias (720p),https://59c5c86e10038.streamlock.net/6605140/6605140/playlist.m3u8
